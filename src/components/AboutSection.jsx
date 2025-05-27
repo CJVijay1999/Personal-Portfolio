@@ -16,7 +16,7 @@ export const AboutSection = () => {
               Passionate{" "}
               <TypeAnimation 
                 sequence={[
-                  "Frontend Developer Web Development",
+                  "Frontend Developer Web Development and MERN Stack",
                   1000
               ]} className="text-primary" />
               {" "}

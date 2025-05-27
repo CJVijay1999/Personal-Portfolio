@@ -9,7 +9,8 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
-      '@': path.resolve('./src'),
-    }
+      '@': path.resolve(__dirname, './src'),
+    }git branch -M main
+
   }
 })
